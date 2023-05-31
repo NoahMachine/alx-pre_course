@@ -1,2 +1,1 @@
-My first readme 
-Good software Engineer
+My first readme
