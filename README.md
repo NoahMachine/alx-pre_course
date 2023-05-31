@@ -1,2 +1,2 @@
-My first readme thank you
+My first readme 
 Good software Engineer
